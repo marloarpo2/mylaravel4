@@ -18,6 +18,4 @@
             </div>
         </div>
     </div>
-
-    {{ $dataTable->scripts(attributes: ['type' => 'module']) }}
 </x-app-layout>
